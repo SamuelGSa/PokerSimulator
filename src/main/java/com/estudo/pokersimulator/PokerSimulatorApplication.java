@@ -6,7 +6,10 @@ public class PokerSimulatorApplication {
 
         PokerSimulatorImpl pokerSimulatorService = new PokerSimulatorImpl();
 
+        pokerSimulatorService.menuInicial();
+
         pokerSimulatorService.cardsDeckGenerator();
+
     }
 
 }
