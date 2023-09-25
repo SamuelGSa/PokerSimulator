@@ -6,7 +6,7 @@ import java.util.Map;
 
 public class PokerSimulatorImpl {
 
-    Map<String,String> cardsDeckGenerate() {
+    Map<String,String> cardsDeckGenerator() {
 
         String names[] = {"Às", "Dois", "Três", "Quatro", "Cinco", "Seis", "Sete", "Oito", "Nove", "Valete", "Dama", "Rei"};
         String suits[] = {"Copas", "Espadas", "Paus", "Ouros"};
