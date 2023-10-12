@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.estudo</groupId>
-	<artifactId>poker-simulator</artifactId>
+	<artifactId>casino-simulator</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>poker-simulator</name>
+	<name>casino-simulator</name>
 	<description>Demo Simulator for Study</description>
 	<properties>
 		<java.version>17</java.version>
